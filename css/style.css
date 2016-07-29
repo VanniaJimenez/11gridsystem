@@ -1,0 +1,18 @@
+ul{list-style:none; color:white;}
+.fondo {background-color:#29333A; width:100%; height: 40%;}
+li{display: inline-block;padding:1% ; margin:3% 3% 3% 0%;font-size: 10px;}
+.fondos {background-color: #D3D4D9; margin:0px;width: 100%;}
+
+.fre {width: 50px; height: 50px;margin: 10px 0px 15px 0px;}
+a{text-decoration:none; color:#087E8B;text-align: center;}
+
+.ta {width: 150px; height: 150px; margin: 20px 5px 0px 0px;
+    border-style: solid; border-color: white;}
+
+* {font-family:Arial;}
+.hg {margin: 0px 0px 50px 0px}
+.ju{margin:25px 0px 10px 0px}
+.lo{width:100px; height:100px; display: inline-block;}
+hr { width:150px; border-color:#EDF2F4;margin: 5px 0px 15px 0px}
+.cl{display: inline-block;margin:0px 5px 5px 0px;}
+.chico {width: 7%;height: 7%;}
